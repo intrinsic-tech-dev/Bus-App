@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "834857440470",
+    "firebase_url": "https://go-bus-d7147-default-rtdb.firebaseio.com",
+    "project_id": "go-bus-d7147",
+    "storage_bucket": "go-bus-d7147.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834857440470:android:a859db61f67f4d26eda577",
+        "android_client_info": {
+          "package_name": "com.example.go_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834857440470-ch18dpkkomoabk4tmmblo5q29rinfrbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIyYnB11JW1Sd8mQVWjt5Wkr_CZvi0EzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834857440470-ch18dpkkomoabk4tmmblo5q29rinfrbd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

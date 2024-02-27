@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Go_Login">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="194dp"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.569"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.197"
+        app:srcCompat="@drawable/imag" />
+
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/idTILUserName1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="250dp"
+        android:layout_marginEnd="20dp"
+        android:hint="Enter User Name"
+        android:padding="5dp"
+        android:textColorHint="@color/Red"
+        app:hintTextColor="@color/Red">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/idEdtUserName1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:ems="10"
+            android:importantForAutofill="no"
+            android:inputType="textEmailAddress"
+            android:textColor="@color/Red"
+            android:textColorHint="@color/Red"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/idTILPassword1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/idTILUserName1"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginEnd="20dp"
+        android:hint="Enter your Password"
+        android:padding="5dp"
+        android:textColorHint="@color/Red"
+        app:hintTextColor="@color/Red">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/idEdtPassword1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:ems="10"
+            android:textStyle="bold"
+            android:importantForAutofill="no"
+            android:inputType="textPassword"
+            android:textColor="@color/Red"
+            android:textColorHint="@color/Red"
+            android:textSize="24sp" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <Button
+        android:id="@+id/idBtnLogin"
+        android:layout_width="118dp"
+        android:layout_height="48dp"
+        android:layout_marginLeft="150dp"
+        android:layout_marginTop="480dp"
+        android:backgroundTint="@color/blue1"
+        android:fontFamily="@font/roboto_light"
+        android:text="LOGIN"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="#FDFCFC"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        app:cornerRadius="20dp"
+        app:iconTint="#FFFFFF"
+        app:layout_constraintVertical_bias="0.814"
+        app:rippleColor="@color/blue1"
+        app:strokeColor="@color/blue1"
+        app:strokeWidth="2dp" />
+
+    <TextView
+        android:id="@+id/idTVNewUser1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/idBtnLogin"
+        android:layout_marginTop="40dp"
+        android:gravity="center"
+        android:textColorHint="@color/Red"
+        android:hint="If you have Dont Account Register here "
+        android:padding="10dp"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="@color/Red"
+        android:textSize="19sp" />
+
+    <ProgressBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/idPBLoading1"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/idTVNewUser1"
+        android:layout_marginTop="10dp"
+        android:indeterminate="true"
+        android:indeterminateDrawable="@drawable/progress_back"
+        android:visibility="gone"/>
+
+
+</RelativeLayout>

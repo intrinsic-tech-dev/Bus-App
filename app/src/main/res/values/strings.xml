@@ -1,0 +1,239 @@
+<resources>
+
+    <!--    -->
+    <string name="app_name">Go-App</string>
+    <string name="From">Beijing</string>
+    <string name="To">Shanghai</string>
+    <string name="Date">Fri, 15 Jan, 2021</string>
+    <string name="SearchBTN">Search</string>
+    <string name="TagLine">Go wherever you want to go</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="Way">One-Way</string>
+    <string name="Buses">Buses</string>
+    <string name="to">Shanghai</string>
+    <string name="Outbound">Outbound Buses</string>
+    <string name="StartTime">11:00</string>
+    <string name="EndTime">17:42</string>
+    <string name="StartLocation">Colombo</string>
+    <string name="EndLocation">Jaffna</string>
+    <string name="AC">AC</string>
+    <string name="Time">6h 42min</string>
+    <string name="Price">400 LKR</string>
+    <string name="Book">Book Now</string>
+    <string name="BusNumber">NB - 3350</string>
+    <string name="BusNumber1">NN - 9809</string>
+    <string name="BusNumber2">ND - 7889</string>
+    <string name="EndTime1">19:42</string>
+    <string name="StartTime1">13:00</string>
+    <string name="StartTime2">17:00</string>
+    <string name="EndTime2">23:42</string>
+    <string name="Select">Selected</string>
+    <string name="Booked">Booked</string>
+    <string name="Available">Available</string>
+    <string name="BillAmount">Bill Amount</string>
+    <string name="StartL">Colombo</string>
+    <string name="EndL">Jaffna</string>
+    <string name="seat">Seats</string>
+    <string name="PriceAmount">1600 LKR</string>
+    <string name="Total">4 x 400 LKR</string>
+    <string name="TotalPrice">Total Price</string>
+    <string name="go">Go</string>
+    <string name="Payment">Confirm</string>
+    <string name="userid">Enter Your User ID ....</string>
+    <string name="Userid">User ID</string>
+    <string name="one">2</string>
+    <string name="TotalSeats">Total Seats</string>
+    <string name="Number">10</string>
+    <string name="SelectS">Select Your Seats</string>
+    <string name="BusIcon">BusIcon</string>
+    <string name="MenuImg">menuImg</string>
+    <string name="BackArrow">BackArrow</string>
+
+    <!--    Kasun-->
+    <string name="payment">Payment</string>
+    <string name="viewuserprofile">View User Profile</string>
+    <string name="finish">Finish</string>
+    <string name="pay">Pay</string>
+    <string name="usethisbarcode">USE THIS WHEN ENTER TO THE BUS</string>
+    <string name="savethisbarcode">SAVE THIS BARCODE</string>
+    <string name="card">Card</string>
+    <string name="paymentamount">Payment Amount</string>
+    <string name="cash">Cash</string>
+    <string name="price">1600.00 LKR</string>
+    <string name="paymentmethod">Payment Methods</string>
+    <string name="confirmationofpayment">Payment of Rs.1600.00 confirmed</string>
+
+    <!--Anuradha-->
+    <string name="btn_homepage">Home Page</string>
+    <string name="delete">Deleted</string>
+    <string name="save">Successfully Saved</string>
+    <string name="btn_addBus">Add Busses</string>
+    <string name="btn_viewBus">View Busses</string>
+    <string name="ed_driverName"> </string>
+    <string name="ed_Conductor"> </string>
+    <string name="ed_vehicleNo"> </string>
+    <string name="ed_NoOfSeat"> </string>
+    <string name="tv_select">Select</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_delete">Delete</string>
+    <string name="ed_update">Update</string>
+    <string name="button_save">save</string>
+    <string name="tv_NN">NN-3355</string>
+    <string name="TV_road">Colombo</string>
+    <string name="tv_time">"11.00 -/ 17.42"</string>
+    <string name="textView">50</string>
+    <string name="btn_view">View</string>
+    <string name="tv_details">Bus Details (Admin)</string>
+    <string name="tv_updateBus">Update Busses</string>
+    <string name="tv_addBus">Add Busses</string>
+    <string name="tv_deleteBus">Delete Busses</string>
+    <string name="btn_viewBusses">View Busses</string>
+    <string name="tv_saveBus">Saved Busses</string>
+    <string name="tx_driver">Driver Name</string>
+    <string name="tx_conductor">Conductor Name</string>
+    <string name="tx_vehicleNo">Vehicle Number</string>
+    <string name="tx_noOfSeats">No of Seats</string>
+    <string name="tx_strat">Start Location</string>
+    <string name="tx_end">End Location</string>
+    <string name="tx_startTime">Start Time</string>
+    <string name="tx_endTime">End Time</string>
+    <string name="tx_id">ID</string>
+
+    <!--Ishara-->
+    <string name="login">Login</string>
+    <string name="user_name">User Name</string>
+    <string name="password1">Password</string>
+    <string name="login_button">Login</string>
+    <string name="new_member_signup">New Member ? Sign Up</string>
+
+    <string name="signup">Sign Up</string>
+    <string name="username">User Name</string>
+    <string name="usernameedit" />
+    <string name="personalid1">Personal ID</string>
+    <string name="personalidedit" />
+    <string name="phonenumber">Phone Number</string>
+    <string name="phonenumberedit" />
+    <string name="email">E-Mail</string>
+    <string name="emailedit" />
+    <string name="password2">Password</string>
+    <string name="passwordedit" />
+    <string name="alreadymember">Already Member ?</string>
+    <string name="login1">Login</string>
+    <string name="submit1">SUBMIT</string>
+
+    <string name="username3">Ryo John</string>
+    <string name="personalid3">PS1103</string>
+    <string name="phonenumber3">0772555555</string>
+    <string name="email3">ryo@gmail.com</string>
+    <string name="password3">Ryo123</string>
+    <string name="updateprofile3">UPDATE PROFILE</string>
+    <string name="feedback3">FEEDBACK</string>
+
+    <string name="usernameedit4">User Name</string>
+    <string name="personalidedit4">Personal ID</string>
+    <string name="phonenumberedit4">Phone Number</string>
+    <string name="emailedit4">E-Mail</string>
+    <string name="passwordedit1">Password</string>
+    <string name="username5" />
+    <string name="personal5" />
+    <string name="phonenumber5" />
+    <string name="email5" />
+    <string name="password5" />
+    <string name="delete5">DELETE</string>
+    <string name="update5">UPDATE</string>
+
+    <string name="g">G</string>
+    <string name="o">O</string>
+    <string name="login6">LOGIN</string>
+    <string name="createnewacc">CREATE NEW ACCOUNT</string>
+    <string name="gowhaere">Go Wherever You Want</string>
+    <string name="delete6">Deleted</string>
+    <string name="homepage3">HOME PAGE</string>
+
+    <string name="savefeedback">SAVE YOUR FEEDBACK</string>
+
+
+    <string name="username8">user name</string>
+
+    <string name="personalid8">personal ID</string>
+    <string name="phonenumber8">phone No</string>
+    <string name="email8">E-mail</string>
+    <string name="password8">password</string>
+    <string name="username9">user name</string>
+    <string name="password9">password</string>
+    <string name="username44" />
+    <string name="password44" />
+    <string name="username555" />
+    <string name="password555" />
+    <string name="write111" />
+    <string name="Write" />
+    <string name="write11">Write...</string>
+    <string name="username000">User Name</string>
+    <string name="register">Register</string>
+    <string name="username777">User Name</string>
+    <string name="password999">Password</string>
+    <string name="crrentlypassword">Re-enter Password</string>
+    <string name="password222">password</string>
+    <string name="username999">user name</string>
+    <string name="password990">password</string>
+    <string name="repassword">Re- enter password</string>
+
+
+    <!-- Anuradha -->
+    <string name="btn_homepage">Home Page</string>
+    <string name="delete">Deleted</string>
+    <string name="save">Successfully Saved</string>
+    <string name="btn_addBus">Add Busses</string>
+    <string name="btn_viewBus">View Busses</string>
+    <string name="ed_driverName"> </string>
+    <string name="ed_Conductor"> </string>
+    <string name="ed_vehicleNo"> </string>
+    <string name="ed_NoOfSeat"> </string>
+    <string name="tv_select">Select</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_delete">Delete</string>
+    <string name="ed_update">Update</string>
+    <string name="button_save">save</string>
+    <string name="tv_NN">NN-3355</string>
+    <string name="TV_road">Colombo</string>
+    <string name="tv_time">"11.00 -/ 17.42"</string>
+    <string name="textView">50</string>
+    <string name="btn_view">View</string>
+    <string name="tv_details">Bus Details (Admin)</string>
+    <string name="tv_updateBus">Update Busses</string>
+    <string name="tv_addBus">Add Busses</string>
+    <string name="tv_deleteBus">Delete Busses</string>
+    <string name="btn_viewBusses">View Busses</string>
+    <string name="tv_saveBus">Saved Busses</string>
+    <string name="tx_driver">Driver Name</string>
+    <string name="tx_conductor">Conductor Name</string>
+    <string name="tx_vehicleNo">Vehicle Number</string>
+    <string name="tx_noOfSeats">No of Seats</string>
+    <string name="tx_strat">Start Location</string>
+    <string name="tx_end">End Location</string>
+    <string name="tx_startTime">Start Time</string>
+    <string name="tx_endTime">End Time</string>
+    <string name="tx_id">ID</string>
+    <string name="ed_viewBus" />
+    <string name="tx_viewBusDetails">View Bus Details</string>
+    <string name="view_hint">Type Bus ID</string>
+    <string name="driverName">Driver Name</string>
+    <string name="conductorName">Conductor Name</string>
+    <string name="vehicleNumber">Vehicle Number</string>
+    <string name="no_seats">No Of Seats</string>
+    <string name="budID">Bus ID</string>
+    <string name="driver_name">Driver Name</string>
+    <string name="conductor_name">Conductor Name</string>
+    <string name="vehicle_no">Vehicle No</string>
+    <string name="NoOfSeats">No Of Seats</string>
+
+    <!-- Anuradha -->
+
+</resources>
